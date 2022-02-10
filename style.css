@@ -1,0 +1,12 @@
+p{
+    color: blue;
+}
+h1{
+    background: pink;
+}
+h3{
+    background: rgb(213, 245, 166);
+}
+h1+h3{
+    color: red;
+}
